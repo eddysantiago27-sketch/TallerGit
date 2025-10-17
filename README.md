@@ -1,3 +1,2 @@
 # Taller de Git y Github
-Holiwi
-Segundo com
+:v
